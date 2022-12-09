@@ -1,5 +1,5 @@
 {
-    "name": "medicatel-pixelpay/sdk",
+    "name": "MedicatelPixelPay/sdk",
     "description": "Herramientas para APIs de la plataforma PixelPay",
 	"version": "2.0.0",
     "type": "library",
@@ -8,18 +8,18 @@
 	"license": "MIT",
     "autoload": {
         "psr-4": {
-            "PixelPay\\Sdk\\": "src/"
+            "MedicatelPixelPay\\Sdk\\": "src/"
         }
     },
 	"autoload-dev": {
 		"psr-4": {
-			"PixelPay\\Sdk\\Tests\\": "tests/"
+			"MedicatelPixelPay\\Sdk\\Tests\\": "tests/"
 		}
 	},
     "authors": [
         {
-            "name": "Ivan Suazo",
-            "email": "ivan@pixel.hn"
+            "name": "Medicatel",
+            "email": "info@medicatel.red"
         }
     ],
     "require": {
