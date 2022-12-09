@@ -5,7 +5,7 @@
 Para instalar el [paquete oficial de Composer](https://packagist.org/packages/pixelpay/sdk):
 
 ``` bash
-$ composer require pixelpay/sdk
+$ composer require medicatel-pixelpay/sdk
 ```
 
 ## ¿Como publicar?
