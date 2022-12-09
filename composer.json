@@ -8,12 +8,12 @@
 	"license": "MIT",
     "autoload": {
         "psr-4": {
-            "medicatelpixelpay\\Sdk\\": "src/"
+            "MedicatelPixelPay\\Sdk\\": "src/"
         }
     },
 	"autoload-dev": {
 		"psr-4": {
-			"medicatelpixelpay\\Sdk\\Tests\\": "tests/"
+			"MedicatelPixelPay\\Sdk\\Tests\\": "tests/"
 		}
 	},
     "authors": [
