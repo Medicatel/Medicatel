@@ -1,8 +1,8 @@
 <?php
 
-namespace PixelPay\Sdk\Base;
+namespace MedicatelPixelPay\Sdk\Base;
 
-use PixelPay\Sdk\Exceptions\IllegalStateException;
+use MedicatelPixelPay\Sdk\Exceptions\IllegalStateException;
 
 class Helpers
 {

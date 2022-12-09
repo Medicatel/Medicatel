@@ -1,8 +1,8 @@
 <?php
 
-namespace PixelPay\Sdk\Resources;
+namespace MedicatelPixelPay\Sdk\Resources;
 
-use PixelPay\Sdk\Exceptions\IllegalStateException;
+use MedicatelPixelPay\Sdk\Exceptions\IllegalStateException;
 
 class Locations
 {

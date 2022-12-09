@@ -1,8 +1,8 @@
 <?php
 
-namespace PixelPay\Sdk\Responses;
+namespace MedicatelPixelPay\Sdk\Responses;
 
-use PixelPay\Sdk\Base\Response;
+use MedicatelPixelPay\Sdk\Base\Response;
 
 class NotFoundResponse extends Response
 {

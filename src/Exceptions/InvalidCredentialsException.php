@@ -1,6 +1,6 @@
 <?php
 
-namespace PixelPay\Sdk\Exceptions;
+namespace MedicatelPixelPay\Sdk\Exceptions;
 
 use Exception;
 

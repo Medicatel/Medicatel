@@ -1,6 +1,6 @@
 <?php
 
-namespace PixelPay\Sdk\Models;
+namespace MedicatelPixelPay\Sdk\Models;
 
 class Order
 {

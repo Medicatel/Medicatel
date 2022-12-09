@@ -1,10 +1,10 @@
 <?php
 
-namespace PixelPay\Sdk\Entities;
+namespace MedicatelPixelPay\Sdk\Entities;
 
-use PixelPay\Sdk\Base\Helpers;
-use PixelPay\Sdk\Base\Response;
-use PixelPay\Sdk\Responses\SuccessResponse;
+use MedicatelPixelPay\Sdk\Base\Helpers;
+use MedicatelPixelPay\Sdk\Base\Response;
+use MedicatelPixelPay\Sdk\Responses\SuccessResponse;
 
 class CardResult
 {

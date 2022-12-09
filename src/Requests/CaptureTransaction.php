@@ -1,8 +1,8 @@
 <?php
 
-namespace PixelPay\Sdk\Requests;
+namespace MedicatelPixelPay\Sdk\Requests;
 
-use PixelPay\Sdk\Base\RequestBehaviour;
+use MedicatelPixelPay\Sdk\Base\RequestBehaviour;
 
 class CaptureTransaction extends RequestBehaviour
 {

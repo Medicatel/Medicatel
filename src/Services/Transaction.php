@@ -1,17 +1,17 @@
 <?php
 
-namespace PixelPay\Sdk\Services;
+namespace MedicatelPixelPay\Sdk\Services;
 
-use PixelPay\Sdk\Base\Helpers;
-use PixelPay\Sdk\Base\Response;
-use PixelPay\Sdk\Base\ServiceBehaviour;
-use PixelPay\Sdk\Exceptions\InvalidTransactionTypeException;
-use PixelPay\Sdk\Requests\AuthTransaction;
-use PixelPay\Sdk\Requests\CaptureTransaction;
-use PixelPay\Sdk\Requests\PaymentTransaction;
-use PixelPay\Sdk\Requests\SaleTransaction;
-use PixelPay\Sdk\Requests\StatusTransaction;
-use PixelPay\Sdk\Requests\VoidTransaction;
+use MedicatelPixelPay\Sdk\Base\Helpers;
+use MedicatelPixelPay\Sdk\Base\Response;
+use MedicatelPixelPay\Sdk\Base\ServiceBehaviour;
+use MedicatelPixelPay\Sdk\Exceptions\InvalidTransactionTypeException;
+use MedicatelPixelPay\Sdk\Requests\AuthTransaction;
+use MedicatelPixelPay\Sdk\Requests\CaptureTransaction;
+use MedicatelPixelPay\Sdk\Requests\PaymentTransaction;
+use MedicatelPixelPay\Sdk\Requests\SaleTransaction;
+use MedicatelPixelPay\Sdk\Requests\StatusTransaction;
+use MedicatelPixelPay\Sdk\Requests\VoidTransaction;
 
 class Transaction extends ServiceBehaviour
 {

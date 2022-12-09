@@ -1,11 +1,11 @@
 <?php
 
-namespace PixelPay\Sdk\Services;
+namespace MedicatelPixelPay\Sdk\Services;
 
-use PixelPay\Sdk\Base\RequestBehaviour;
-use PixelPay\Sdk\Base\Response;
-use PixelPay\Sdk\Base\ServiceBehaviour;
-use PixelPay\Sdk\Requests\CardTokenization;
+use MedicatelPixelPay\Sdk\Base\RequestBehaviour;
+use MedicatelPixelPay\Sdk\Base\Response;
+use MedicatelPixelPay\Sdk\Base\ServiceBehaviour;
+use MedicatelPixelPay\Sdk\Requests\CardTokenization;
 
 class Tokenization extends ServiceBehaviour
 {

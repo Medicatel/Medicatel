@@ -1,6 +1,6 @@
 <?php
 
-namespace PixelPay\Sdk\Base;
+namespace MedicatelPixelPay\Sdk\Base;
 
 use Composer\InstalledVersions;
 

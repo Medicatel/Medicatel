@@ -1,8 +1,8 @@
 <?php
 
-namespace PixelPay\Sdk\Models;
+namespace MedicatelPixelPay\Sdk\Models;
 
-use PixelPay\Sdk\Base\Helpers;
+use MedicatelPixelPay\Sdk\Base\Helpers;
 
 class Card
 {

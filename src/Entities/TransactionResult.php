@@ -1,13 +1,13 @@
 <?php
 
-namespace PixelPay\Sdk\Entities;
+namespace MedicatelPixelPay\Sdk\Entities;
 
-use PixelPay\Sdk\Base\Helpers;
-use PixelPay\Sdk\Base\Response;
-use PixelPay\Sdk\Responses\ErrorResponse;
-use PixelPay\Sdk\Responses\PaymentDeclinedResponse;
-use PixelPay\Sdk\Responses\SuccessResponse;
-use PixelPay\Sdk\Responses\TimeoutResponse;
+use MedicatelPixelPay\Sdk\Base\Helpers;
+use MedicatelPixelPay\Sdk\Base\Response;
+use MedicatelPixelPay\Sdk\Responses\ErrorResponse;
+use MedicatelPixelPay\Sdk\Responses\PaymentDeclinedResponse;
+use MedicatelPixelPay\Sdk\Responses\SuccessResponse;
+use MedicatelPixelPay\Sdk\Responses\TimeoutResponse;
 
 class TransactionResult
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace PixelPay\Sdk\Models;
+namespace MedicatelPixelPay\Sdk\Models;
 
-use PixelPay\Sdk\Base\Helpers;
-use PixelPay\Sdk\Resources\Environment;
+use MedicatelPixelPay\Sdk\Base\Helpers;
+use MedicatelPixelPay\Sdk\Resources\Environment;
 
 class Settings
 {

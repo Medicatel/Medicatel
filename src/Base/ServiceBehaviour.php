@@ -1,24 +1,24 @@
 <?php
 
-namespace PixelPay\Sdk\Base;
+namespace MedicatelPixelPay\Sdk\Base;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\ServerException;
-use PixelPay\Sdk\Base\Response;
-use PixelPay\Sdk\Exceptions\InvalidCredentialsException;
-use PixelPay\Sdk\Models\Settings;
-use PixelPay\Sdk\Responses\ErrorResponse;
-use PixelPay\Sdk\Responses\FailureResponse;
-use PixelPay\Sdk\Responses\InputErrorResponse;
-use PixelPay\Sdk\Responses\NetworkFailureResponse;
-use PixelPay\Sdk\Responses\NoAccessResponse;
-use PixelPay\Sdk\Responses\NotFoundResponse;
-use PixelPay\Sdk\Responses\PayloadResponse;
-use PixelPay\Sdk\Responses\PaymentDeclinedResponse;
-use PixelPay\Sdk\Responses\PreconditionalResponse;
-use PixelPay\Sdk\Responses\SuccessResponse;
-use PixelPay\Sdk\Responses\TimeoutResponse;
+use MedicatelPixelPay\Sdk\Base\Response;
+use MedicatelPixelPay\Sdk\Exceptions\InvalidCredentialsException;
+use MedicatelPixelPay\Sdk\Models\Settings;
+use MedicatelPixelPay\Sdk\Responses\ErrorResponse;
+use MedicatelPixelPay\Sdk\Responses\FailureResponse;
+use MedicatelPixelPay\Sdk\Responses\InputErrorResponse;
+use MedicatelPixelPay\Sdk\Responses\NetworkFailureResponse;
+use MedicatelPixelPay\Sdk\Responses\NoAccessResponse;
+use MedicatelPixelPay\Sdk\Responses\NotFoundResponse;
+use MedicatelPixelPay\Sdk\Responses\PayloadResponse;
+use MedicatelPixelPay\Sdk\Responses\PaymentDeclinedResponse;
+use MedicatelPixelPay\Sdk\Responses\PreconditionalResponse;
+use MedicatelPixelPay\Sdk\Responses\SuccessResponse;
+use MedicatelPixelPay\Sdk\Responses\TimeoutResponse;
 use Throwable;
 
 class ServiceBehaviour

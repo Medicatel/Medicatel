@@ -1,6 +1,6 @@
 <?php
 
-namespace PixelPay\Sdk\Requests;
+namespace MedicatelPixelPay\Sdk\Requests;
 
 class AuthTransaction extends PaymentTransaction
 {

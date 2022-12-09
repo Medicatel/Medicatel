@@ -1,12 +1,12 @@
 <?php
 
-namespace PixelPay\Sdk\Requests;
+namespace MedicatelPixelPay\Sdk\Requests;
 
-use PixelPay\Sdk\Base\Helpers;
-use PixelPay\Sdk\Base\RequestBehaviour;
-use PixelPay\Sdk\Models\Billing;
-use PixelPay\Sdk\Models\Card;
-use PixelPay\Sdk\Models\Order;
+use MedicatelPixelPay\Sdk\Base\Helpers;
+use MedicatelPixelPay\Sdk\Base\RequestBehaviour;
+use MedicatelPixelPay\Sdk\Models\Billing;
+use MedicatelPixelPay\Sdk\Models\Card;
+use MedicatelPixelPay\Sdk\Models\Order;
 
 class PaymentTransaction extends RequestBehaviour
 {
